@@ -4,7 +4,7 @@ import math
 from qiskit import QuantumCircuit
 from qiskit.quantum_info import Statevector
 
-secret = "101"
+secret = "101101"
 n = len(secret) # qubits
 
 
